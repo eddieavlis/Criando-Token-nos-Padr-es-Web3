@@ -43,8 +43,14 @@ O contrato permite que outros contratos chamem a função approveAndCall, o que 
 
 
 Links: 
+
 https://metamask.io/
+
 https://rpc.info/
+
 https://remix.ethereum.org/
+
 https://www.bnbchain.org/en/testnet-faucet
+
 https://testnet.bscscan.com
+
